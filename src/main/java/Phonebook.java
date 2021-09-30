@@ -4,6 +4,7 @@ public class Phonebook {
 
     public static void main(String[] args) {
 
+        // Hashmap of college departments and phone numbers
         Map<String, String> collegePhoneNumbers = Map.of(
                 "Academic Success Center", "612-659-6140",
                 "Accessibility Resource Center", "612-659-6730",
